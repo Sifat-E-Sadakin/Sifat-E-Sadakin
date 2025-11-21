@@ -15,7 +15,7 @@ I’m passionate about building dynamic and responsive web applications, special
 
 ### 💼 **Experience**
 
--- **Software Engineer I** | NEXT Ventures  
+- **Software Engineer I** | NEXT Ventures  
   _Mar 2023 – Present 
 
 - **Software Engineer I (Frontend)** | Techsist Limited  
