@@ -15,8 +15,11 @@ I’m passionate about building dynamic and responsive web applications, special
 
 ### 💼 **Experience**
 
-- **Software Engineer L-2 (Frontend)** | Techsist Limited  
-  _Sep 2023 – Present_
+-- **Software Engineer I** | NEXT Ventures  
+  _Mar 2023 – Present 
+
+- **Software Engineer I (Frontend)** | Techsist Limited  
+  _Sep 2024 – _Mar 2025
   
 - **Jr. Frontend Engineer** | Meghna Cloud  
   _Aug 2023 – Sep 2024_
